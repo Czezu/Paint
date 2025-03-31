@@ -1,0 +1,90 @@
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\App.xbf
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\MainPage.xbf
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\xamlPaint.xr.xml
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\xamlPaint.exe
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\xamlPaint.pdb
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\resources.pri
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\AppxManifest.xml
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\Core\AppxManifest.xml
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\Core\xamlPaint.exe
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\xamlPaint.build.appxrecipe
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\System.Runtime.dll
+D:\projekty\2025Czezowska\xamlPaint\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.csproj.AssemblyReference.cache
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\App.g.i.cs
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\App.g.cs
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\MainPage.g.i.cs
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\MainPage.g.cs
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\App.xaml
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\MainPage.xaml
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\App.xbf
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\MainPage.xbf
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\XamlSaveStateFile.xml
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.csproj.CoreCompileInputs.cache
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.csproj.Up2Date
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.exe
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.pdb
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\ResourceHandlingTask.state
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\priconfig.xml
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\priconfig.xml.intermediate
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\unfiltered.layout.resfiles
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\filtered.layout.resfiles
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\excluded.layout.resfiles
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\resources.resfiles
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\resources.resfiles.intermediate
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\pri.resfiles
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\pri.resfiles.intermediate
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\qualifiers.txt
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\qualifiers.txt.intermediate
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\ProjectArchitectures.txt
+D:\projekty\2025Czezowska\xamlPaint\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\App.xbf
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\MainPage.xbf
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\xamlPaint.xr.xml
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\xamlPaint.exe
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\xamlPaint.pdb
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\resources.pri
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\AppxManifest.xml
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\Core\AppxManifest.xml
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\Core\xamlPaint.exe
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\xamlPaint.build.appxrecipe
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\System.Runtime.dll
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.csproj.AssemblyReference.cache
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\App.g.i.cs
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\App.g.cs
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\MainPage.g.i.cs
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\MainPage.g.cs
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\App.xaml
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\MainPage.xaml
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\App.xbf
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\MainPage.xbf
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.csproj.CoreCompileInputs.cache
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.csproj.CopyComplete
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.exe
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\xamlPaint.pdb
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\ResourceHandlingTask.state
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\priconfig.xml
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\priconfig.xml.intermediate
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\filtered.layout.resfiles
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\excluded.layout.resfiles
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\resources.resfiles
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\resources.resfiles.intermediate
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\pri.resfiles
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\pri.resfiles.intermediate
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\qualifiers.txt
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\ProjectArchitectures.txt
+D:\Dominika Czezowska\Specjalizacja\2025Czezowska\xamlPaint\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json

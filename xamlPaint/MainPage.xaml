@@ -1,0 +1,125 @@
+﻿<Page x:Class="xamlPaint.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:xamlPaint"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Background="LightPink">
+
+    <Grid Padding="20">
+
+        <!-- Pole rysowania -->
+        <Border BorderThickness="2" BorderBrush="Gray" CornerRadius="15" Margin="0,160,160,0" Background="WhiteSmoke">
+            <Canvas x:Name="poleRysowania" Background="White"
+                    PointerPressed="poleRysowania_PointerPressed"
+                    PointerMoved="poleRysowania_PointerMoved"
+                    PointerReleased="poleRysowania_PointerReleased"/>
+        </Border>
+
+        <!-- Tryb rysowania -->
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Top"
+                    Background="LightCoral"
+                    Padding="10"
+                    CornerRadius="10"
+                    Margin="10">
+            <RadioButton x:Name="rdbProsta"
+                         Content="Prosta"
+                         GroupName="TrybRysowania"
+                         IsChecked="True"
+                         FontSize="16"
+                         Padding="10"
+                         Foreground="White"
+                         Background="Transparent"/>
+            <RadioButton x:Name="rdbDowolna"
+                         Content="Dowolna"
+                         GroupName="TrybRysowania"
+                         FontSize="16"
+                         Padding="10"
+                         Foreground="White"
+                         Background="Transparent"/>
+        </StackPanel>
+
+        <!-- Suwak grubości -->
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,80,0,0">
+            <TextBlock Text="Grubość pędzla"
+                       FontSize="14"
+                       FontWeight="Bold"
+                       HorizontalAlignment="Center"
+                       Margin="0,10,0,0" Foreground="Gray"/>
+            <Slider x:Name="sldGrubosc" Minimum="1" Maximum="50" Value="2"
+                    Width="320" Margin="0,5,0,0" Background="LightGray"/>
+        </StackPanel>
+
+        <!-- Kolory + wybór koloru -->
+        <StackPanel x:Name="spKolory" Orientation="Vertical"
+                    HorizontalAlignment="Right"
+                    VerticalAlignment="Top"
+                    Padding="0"
+                    Background="LightCoral"
+                    CornerRadius="10"
+                    Margin="0">
+            <StackPanel Orientation="Vertical" Spacing="5">
+                <Ellipse Fill="Black" Width="30" Height="30" PointerPressed="Rectangle_PointerPressed"/>
+                <Ellipse Fill="Red" Width="30" Height="30" PointerPressed="Rectangle_PointerPressed"/>
+                <Ellipse Fill="Green" Width="30" Height="30" PointerPressed="Rectangle_PointerPressed"/>
+                <Ellipse Fill="Blue" Width="30" Height="30" PointerPressed="Rectangle_PointerPressed"/>
+            </StackPanel>
+
+            <Button Content="🎨 Wybierz kolor"
+                    Click="Button_Click_1"
+                    FontSize="14"
+                    Background="White"
+                    Foreground="Black"
+                    Padding="5,2"
+                    CornerRadius="8"
+                    Margin="10">
+                <FlyoutBase.AttachedFlyout>
+                    <Flyout>
+                        <Border BorderThickness="2" BorderBrush="Gray" CornerRadius="10">
+                            <ColorPicker x:Name="colorPicker" ColorChanged="colorPicker_ColorChanged"/>
+                        </Border>
+                    </Flyout>
+                </FlyoutBase.AttachedFlyout>
+            </Button>
+        </StackPanel>
+
+        <!-- Cofnij -->
+        <Button x:Name="btnUndo" Content="↩ Cofnij"
+                Click="btnUndo_Click"
+                HorizontalAlignment="Right"
+                FontSize="14"
+                Background="White"
+                Foreground="Black"
+                Padding="5,2"
+                CornerRadius="8"
+                Margin="10"/>
+
+        <!-- Zapisz rysunek i Zamknij program -->
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            <Button Content="Zapisz rysunek"
+                Click="SaveButton_Click"
+                Margin="10"
+                Padding="10"
+                Background="LightCoral"
+                Foreground="White"
+                FontSize="16"
+                CornerRadius="8"/>
+
+            <!-- Zamknij program -->
+            <Button Content="Zamknij program"
+                Click="Button_Click"
+                Background="Coral"
+                Foreground="White"
+                FontSize="16"
+                Padding="10"
+                Margin="5"
+                CornerRadius="8"/>
+        </StackPanel>
+
+        <!-- Odtwarzanie dźwięku -->
+        <MediaElement x:Name="mediaPlayer" Height="100" Width="100"/>
+    </Grid>
+</Page>
